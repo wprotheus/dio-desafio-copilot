@@ -16,18 +16,7 @@ Atividade executada conforme vídeos do [Desafio](https://web.dio.me/lab/criando
 > O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Studio.
 
 #### Em -> INFORMAÇÕES  
-> Aprenda a criar um copiloto no Microsoft Copilot Studio, abordando a configuração de fluxos de conversa, integração com serviços externos e personalização de respostas. Ao final, você terá um assistente funcional capaz de interagir de forma inteligente e automatizar tarefas.Neste LAB, exploraremos o uso do Azure Speech Studio e a análise linguística proporcionada pelo Language Studio. Durante a prática, teremos a oportunidade de aprofundar nosso entendimento sobre como aproveitar essas ferramentas avançadas da Microsoft Azure. Estaremos focados em aprimorar nossas habilidades na implementação de soluções de análise de fala e linguagem, abrindo portas para uma compreensão mais ampla e prática das capacidades oferecidas por essas tecnologias inovadoras.  
-
-### Objetivos de Aprendizagem  
-
-> **Ao concluir este desafio, você será capaz de:**
-> - Aplicar os conceitos aprendidos em um ambiente prático;
-> - Documentar processos técnicos de forma clara e estruturada;
-> - Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
-
-### O que fazer?
-
-> Explore a demonstração apresentada no conteúdo prático e faça um resumo do que aprendeu neste conteúdo. Em seguida armazene em um repositório no GitHub e compartilhe o link na entrega do desafio.
+> Aprenda a criar um copiloto no Microsoft Copilot Studio, abordando a configuração de fluxos de conversa, integração com serviços externos e personalização de respostas. Ao final, você terá um assistente funcional capaz de interagir de forma inteligente e automatizar tarefas.
 
 ---  
 
