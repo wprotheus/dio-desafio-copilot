@@ -88,3 +88,13 @@ responses:
 ## 📚 Documentação Recomendada    
 
 - [Documentação do Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/)
+
+---
+
+### Observações Finais
+
+Este material foi desenvolvido com base em vídeos do desafio proposto no Bootcamp **Suzano - Python Developer**, combinando informações coletadas da Internet e adaptadas com o auxílio de Inteligência Artificial.
+
+> **Nota importante:** Devido à falta de acesso direto ao Microsoft Copilot Studio no momento da produção, os passos e configurações foram ajustados conforme as melhores práticas documentadas e simulações teóricas. Pequenas variações podem ocorrer no ambiente real de desenvolvimento.
+
+***Sugestão:*** Ao obter acesso à ferramenta, recomendo revisar todos os fluxos criados e realizar testes práticos para validar o comportamento efetivo do copiloto.
